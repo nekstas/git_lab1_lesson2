@@ -1,2 +1,23 @@
 2) Файлом README, в ветке master теперь ещё будет файл hometask.txt
 И некоторые коммиты разные.
+4) В ветке master 12 коммитов:
+- update hometask.txt
+- add hometask.txt
+- Merge branch 'boots_buttons'
+- Merge remote-tracking branch 'origin/hat'
+- Merge remote-tracking branch 'origin/buttons' into boots_buttons
+- Merge remote-tracking branch 'origin/boots' into boots_buttons
+- fix readme
+- dots
+- README added
+- boots
+- heat added
+- init
+В втеке boots_buttons 7 коммитов:
+- Merge remote-tracking branch 'origin/buttons' into boots_buttons
+- Merge remote-tracking branch 'origin/boots' into boots_buttons
+- fix readme
+- dots
+- README added
+- boots
+- init
